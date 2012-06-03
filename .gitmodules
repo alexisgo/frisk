@@ -1,0 +1,3 @@
+[submodule "lib/wax"]
+	path = lib/wax
+	url = git://github.com/mapbox/wax.git
